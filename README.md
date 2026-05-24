@@ -18,24 +18,14 @@ When the target bluetooth signal is out of range/deactivated , your **Vault is p
 
 ## 📦 Installation
 
-### Option 1: Quick Start (Recommended)
-*Best for users who just want to run the tool*
-
-1.  Go to the [**Releases Page**](https://github.com/As1agi/sentinel/releases/tag/v0.1.0-beta)
-2.  Download `sentinel` (the binary) and `sentinel.sh` (the launcher).
-3.  Place them in a folder and make the script executable:
-    ```bash
-    chmod +x sentinel.sh
-    ```
-
-### Option 2: Build from Source
+ Build from Source
 *Best for developers or if you want to compile it yourself*
 
 Prerequisites: `Go (Golang) 1.20+`
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/As1agi/sentinel.git
+git clone [https://github.com/As1agi/sentinel.git](https://github.com/stacy2506/sentinel)
 cd sentinel
 
 # 2. Make the script executable
