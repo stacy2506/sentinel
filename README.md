@@ -25,7 +25,7 @@ Prerequisites: `Go (Golang) 1.20+`
 
 ```bash
 # 1. Clone the repository
-git clone [https://github.com/As1agi/sentinel.git](https://github.com/stacy2506/sentinel)
+git clone [https://github.com/stacy2506/sentinel.git](https://github.com/stacy2506/sentinel)
 cd sentinel
 
 # 2. Make the script executable
